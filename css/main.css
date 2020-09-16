@@ -49,6 +49,33 @@ body {
 
 }
 
+.plan__features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.plan__feature {
+  margin: 8px 0;
+}
+
+.plan__title {
+  color: #0e4f1f
+}
+
+.plan__price {
+  color: #858585;
+}
+
+.plan--highlighted .plan__title {
+  color: white;
+}
+
+.plan--highlighted .plan__price {
+  color: #0e4f1f
+}
+
 .main-header {
   width: 100%;
   background: #2ddf5c;
