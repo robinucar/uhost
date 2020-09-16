@@ -81,6 +81,18 @@ body {
   outline: none;
 }
 
+#key-features {
+  background: #ff1b68;
+  margin-top: 80px;
+  padding: 60px
+
+}
+
+#key-features .section-title {
+  color: white;
+  margin:32px;
+}
+
 .plan__title {
   color: #0e4f1f
 }
